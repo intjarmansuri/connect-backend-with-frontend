@@ -1,0 +1,13 @@
+.user-card {
+  border: 1px solid black;
+  margin: 10px;
+  height: 200px;
+  width: 250px;
+  padding: 20px;
+}
+
+.item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
